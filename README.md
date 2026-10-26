@@ -10,6 +10,20 @@ Features
 - User-friendly input prompts.
 - Conversion results displayed in the terminal.
 
+  Screenshots
+
+1. Length Conversion
+
+"Length Conversion" (Screenshots/length_conversion.png)
+
+2. Weight Conversion
+
+"Weight Conversion" (Screenshots/weight_conversion.png)
+
+3. Speed Conversion
+
+"Speed Conversion" (Screenshots/speed_conversion.png)
+
 Technologies Used
 
 - Python 3
