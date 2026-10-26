@@ -13,10 +13,10 @@ Features
 ## Screenshots
 
 ### Length Conversion
-![Length Conversion](./Screenshots/Length_conversion.png)
+![Length Conversion](./Length_conversion.png)
 
 ### Weight Conversion
-![Weight Conversion](./Screenshots/Weight_conversion.png)
+![Weight Conversion](./Weight_conversion.png)
 
 ### Speed Conversion
 ![Speed Conversion](./Speed_conversion.png)
