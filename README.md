@@ -19,7 +19,7 @@ Features
 ![Weight Conversion](./Screenshots/Weight_conversion.png)
 
 ### Speed Conversion
-![Speed Conversion](./Screenshots/Speed_conversion.png)
+![Speed Conversion](./Speed_conversion.png)
 
 Technologies Used
 
