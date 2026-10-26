@@ -14,15 +14,15 @@ Features
 
 1. Length Conversion
 
-"Length Conversion" (Screenshots/length_conversion.png)
+"Length Conversion" (Screenshots/Length_conversion.png)
 
 2. Weight Conversion
 
-"Weight Conversion" (Screenshots/weight_conversion.png)
+"Weight Conversion" (Screenshots/Weight_conversion.png)
 
 3. Speed Conversion
 
-"Speed Conversion" (Screenshots/speed_conversion.png)
+"Speed Conversion" (Screenshots/Speed_conversion.png)
 
 Technologies Used
 
